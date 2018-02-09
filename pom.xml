@@ -13,7 +13,7 @@
 </dependency>
  </dependencies>
  <build>
-		...
+
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -22,7 +22,7 @@
 					<source>1.7</source>
 					<target>1.7</target>
 					<fork>true</fork>
-					<executable>C:\Program Files\Java\jdk1.7.0_79\bin\javac</executable>
+					<executable>C:\Program Files\Java\jdk1.8.0_144\bin\javac</executable>
 				</configuration>
 			</plugin>
 		</plugins>
