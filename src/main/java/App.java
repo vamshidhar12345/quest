@@ -1,6 +1,6 @@
 
 public class App {
 public String Sample() {
-	return "sample java programme";
+	return "this is a demo programme";
 }
 }
