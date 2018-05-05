@@ -16,12 +16,12 @@
         <plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.1</version>
+				<version>3.5.0</version>
 				<configuration>
 					<source>1.7</source>
 					<target>1.7</target>
 					<fork>true</fork>
-					<executable>/usr/lib/java/jdk-10.0.1/bin/</executable>
+					<executable>/usr/lib/java/jdk-10.0.1/bin/javac</executable>
 				</configuration>
 			</plugin>
 		</plugins>
